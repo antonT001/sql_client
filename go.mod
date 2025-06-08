@@ -2,8 +2,6 @@ module github.com/seivanov1986/sql_client
 
 go 1.21
 
-replace github.com/seivanov1986/sql_client => github.com/antonT001/sql_client v1.0.0
-
 require (
 	github.com/jmoiron/sqlx v1.3.5
 	github.com/mattn/go-sqlite3 v1.14.6
