@@ -1,4 +1,4 @@
-module github.com/seivanov1986/sql_client
+module github.com/antonT001/sql_client
 
 go 1.21
 

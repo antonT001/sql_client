@@ -5,8 +5,8 @@ import (
 
 	"github.com/jmoiron/sqlx"
 
-	"github.com/seivanov1986/sql_client"
-	dbconfig "github.com/seivanov1986/sql_client/config"
+	"github.com/antonT001/sql_client"
+	dbconfig "github.com/antonT001/sql_client/config"
 
 	_ "github.com/go-sql-driver/mysql"
 )

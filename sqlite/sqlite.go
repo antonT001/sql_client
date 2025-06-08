@@ -1,8 +1,8 @@
 package sqlite
 
 import (
+	"github.com/antonT001/sql_client"
 	"github.com/jmoiron/sqlx"
-	"github.com/seivanov1986/sql_client"
 
 	_ "github.com/mattn/go-sqlite3"
 )
